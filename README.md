@@ -5,7 +5,7 @@ NOAA structured text hurricane warnings from 2003-2015
 Introduction
 --------------------------------------------------------------------------------
 
-    This dataset contains the National Hurricane Center's historical warning
+This dataset contains the National Hurricane Center's historical warning
 reports. The original data can be found at
 http://www.nhc.noaa.gov/archive/text/HSFEP3/.
 
